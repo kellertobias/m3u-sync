@@ -1,3 +1,7 @@
+# Looking for Maintainers.
+
+as I no longer use koel and banshee, these scripts are obsolete for me. I will keep them here on my account, however I will not really maintain them anymore.
+
 # Music Sync Collection
 
 This Collection is used to sync music from my banshee library with my server and from there with my smartphones (acrosync) and my online music library (koel)
